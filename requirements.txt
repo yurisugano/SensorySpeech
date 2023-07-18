@@ -1,9 +1,5 @@
+nltk
 python-docx
-spacy
-https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.6.0/en_core_web_md-3.6.0.tar.gz
-sentence_transformers
-babyplots
 punctuator
-numpy==1.20.3
-openai
-bertopic
+rpunct
+
