@@ -1,5 +1,3 @@
-nltk
 python-docx
-punctuator
+nltk
 rpunct
-
