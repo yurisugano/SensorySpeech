@@ -1,0 +1,17 @@
+name: NLP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+
+  # Add the required packages below
+  - pip:
+    - jupyter
+    - python-docx
+    - nltk
+    - git+https://github.com/samwaterbury/rpunct.git
+    - bertopic
+    - gensim
+    - collections
